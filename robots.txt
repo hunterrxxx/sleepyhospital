@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hunterrxxx.github.io/sleepyhospital/sitemap.xml
+Sitemap: https://sleepyhospital.com/sitemap.xml
